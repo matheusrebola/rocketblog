@@ -2,7 +2,8 @@
 https://efficient-sloth-d85.notion.site/Desafio-RocketBlog-807e38809814423e80469b080444db5e
 
 
-![image](https://user-images.githubusercontent.com/58261178/169698327-7c79c210-a60b-4577-91ad-702c3b3fc0e2.png)
+![image](https://user-images.githubusercontent.com/58261178/169698391-0fff530b-02a0-4b0e-8d7c-76321a2233b5.png)
+
 
 ## **Índice**
 
@@ -14,8 +15,7 @@ Neste desafio você irá desenvolver uma homepage para um blog.
 
 ## Layout
 
-![image](https://user-images.githubusercontent.com/58261178/169698346-d082edbe-2887-4b9b-aaba-bdfd375f9aaf.png)
-
+![image](https://user-images.githubusercontent.com/58261178/169698401-601573ee-2daf-4f4b-9d94-29f8e3a5b36e.png)
 
 Você pode visualizar o template do projeto clicando [neste link](https://www.figma.com/file/r4CsL6MPTAvE7EvJXjhFK4/DD-RocketBlog/duplicate)  e `zip` com os assets exportados.
 
