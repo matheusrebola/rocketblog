@@ -2,7 +2,7 @@
 https://efficient-sloth-d85.notion.site/Desafio-RocketBlog-807e38809814423e80469b080444db5e
 
 
-![Capa.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b8a44149-9ce4-490a-b689-35686ca357b4/Capa.png)
+![image](https://user-images.githubusercontent.com/58261178/169698327-7c79c210-a60b-4577-91ad-702c3b3fc0e2.png)
 
 ## **Índice**
 
