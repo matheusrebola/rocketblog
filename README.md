@@ -14,7 +14,8 @@ Neste desafio você irá desenvolver uma homepage para um blog.
 
 ## Layout
 
-![desktop.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ebac2770-72b8-4df4-ab46-c50c49634883/desktop.png)
+![image](https://user-images.githubusercontent.com/58261178/169698346-d082edbe-2887-4b9b-aaba-bdfd375f9aaf.png)
+
 
 Você pode visualizar o template do projeto clicando [neste link](https://www.figma.com/file/r4CsL6MPTAvE7EvJXjhFK4/DD-RocketBlog/duplicate)  e `zip` com os assets exportados.
 
